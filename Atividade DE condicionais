@@ -1,1 +1,22 @@
 
+#include <stdio.h>
+#include <stdlib.h>
+//Ryu positivo e Ken negativo // certa quantidade de vida // vence se chegar a 0, ou estiver com menos hp apos terminar a partida //
+// Vence quem ganhar mais rounds // Negativo sao golpes de Ken // Golpe PERFEITO multiplicado por 3 se a soma dos divisores for o numero do golpe
+//Golpe TRIANGULAR multiplicado por 2 //contninuar 
+
+int main(){
+
+    int ryu, ken, golpe;
+    int vidaK, vidaR = 1000
+
+    for (int i; i <= )
+    
+    printf("Primeiro ROUND!!! Aplique seu golpe");
+    scanf("%d", golpe);
+
+
+}
+
+
+
